@@ -9,7 +9,6 @@
 - This is the first project in Web Professional Track [FWD Initiative].
 	
 ## Technologies
-- Technologies Used:
 * HTML
 * CSS
 * JavaScript
