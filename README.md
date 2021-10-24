@@ -14,4 +14,4 @@
 * JavaScript
 	
 ## Setup
-- To run this project, just open index.html file into your browser and enjoy!.
+- To run this project, just download the full repo then open index.html file into your browser and enjoy!.
